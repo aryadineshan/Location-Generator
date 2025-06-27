@@ -16,6 +16,7 @@ An Android application developed using Android Studio, which converts the user-e
 1. **Enter an address** in the input field.
 2. Tap **Geocode**.
 3. The app displays the latitude and longitude.
+4. Show on Map will redirect you to the location on Google Maps.
 
 
 ## Permissions
