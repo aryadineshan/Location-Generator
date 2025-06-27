@@ -12,6 +12,7 @@ An Android application developed using Android Studio, which converts the user-e
 - Java
 - Android SDK
 - Geocoder API
+- Android Studio 
 
 ## Permissions
 This app uses:
